@@ -1,0 +1,3 @@
+dockers/web/db
+dockers/web/lb/logs
+dockers/web/web1/logs
